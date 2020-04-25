@@ -84,7 +84,7 @@ require_once("config.php");
         </div>
 
         <div class="header header-fixed header-logo-center">
-            <a href="index.php" class="header-title"> شركة النهر</a>
+            <a href="index.php" class="header-title"> شركة أيلا</a>
             <a href="logout.php" data-toggle-theme-switch class="header-icon header-icon-4">خروج</a>
         </div>
 
@@ -158,7 +158,7 @@ require_once("config.php");
                         </div>
                     </a>
                 </div>
-                <div class="one-half">
+<!--                <div class="one-half">
                     <a href="receipt.php">
                         <div data-instant-id="instant-2" data-height="120" class="bg-div1 caption caption-margins round-tiny shadow-huge">
                             <div class="caption-center">
@@ -173,8 +173,8 @@ require_once("config.php");
                             <div class="caption-overlay "></div>
                         </div>
                     </a>
-                </div>
-                <div class="one-half last-column">
+                </div>-->
+<!--                <div class="one-half last-column">
                     <a href="addorders.php">
                         <div data-instant-id="instant-2" data-height="120" class="bg-div1 caption caption-margins round-tiny shadow-huge">
                             <div class="caption-center">
@@ -189,8 +189,8 @@ require_once("config.php");
                             <div class="caption-overlay "></div>
                         </div>
                     </a>
-                </div>
-                <div class="clear">
+                </div>-->
+<!--                <div class="clear">
                     <a href="print.php">
                         <div data-instant-id="instant-4" data-height="120" class="bg-div1 caption caption-margins round-tiny shadow-huge  ">
                             <div class="caption-center">
@@ -205,7 +205,7 @@ require_once("config.php");
                             <div class="caption-overlay  "></div>
                         </div>
                     </a>
-                </div>
+                </div>-->
                 <div class="one-half">
                     <a href="returned.php">
                         <div data-instant-id="instant-2" data-height="120" class="bg-div1 caption caption-margins round-tiny shadow-huge">
